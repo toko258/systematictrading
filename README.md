@@ -544,3 +544,4 @@ conda env update thisismetis/metis
 
 # taprokop.github.io
 # systematictrading
+# Covid-19Projections
