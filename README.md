@@ -546,3 +546,4 @@ conda env update thisismetis/metis
 # systematictrading
 # Covid-19Projections
 # Covid-19Projections
+# Covid-19Projections
